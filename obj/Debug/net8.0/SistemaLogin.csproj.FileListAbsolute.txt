@@ -1,0 +1,14 @@
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\obj\Debug\net8.0\SistemaLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\obj\Debug\net8.0\SistemaLogin.AssemblyInfoInputs.cache
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\obj\Debug\net8.0\SistemaLogin.AssemblyInfo.cs
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\obj\Debug\net8.0\SistemaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\bin\Debug\net8.0\SistemaLogin.exe
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\bin\Debug\net8.0\SistemaLogin.deps.json
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\bin\Debug\net8.0\SistemaLogin.runtimeconfig.json
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\bin\Debug\net8.0\SistemaLogin.dll
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\bin\Debug\net8.0\SistemaLogin.pdb
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\obj\Debug\net8.0\SistemaLogin.dll
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\obj\Debug\net8.0\refint\SistemaLogin.dll
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\obj\Debug\net8.0\SistemaLogin.pdb
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\obj\Debug\net8.0\SistemaLogin.genruntimeconfig.cache
+C:\Users\Emilly\OneDrive\Documentos\LoginSistema\obj\Debug\net8.0\ref\SistemaLogin.dll
